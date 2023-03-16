@@ -1,4 +1,4 @@
-package com.anjali.payroll;
+package com.anjali.model;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
